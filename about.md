@@ -6,4 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-## Subheading
+## Contact Details
+
+## Bio
+
+
+
